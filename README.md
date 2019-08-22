@@ -1,0 +1,2 @@
+# MoreFun
+Repository for class
